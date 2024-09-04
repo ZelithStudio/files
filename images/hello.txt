@@ -1,0 +1,2 @@
+Hello, to images folder!
+This folder contains images used in our products.
